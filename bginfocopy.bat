@@ -1,0 +1,1 @@
+xcopy \\test.com\SYSVOL\test.com\scripts\bg %SYSTEMDRIVE%\bg\ /q /e /y

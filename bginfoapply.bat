@@ -1,0 +1,1 @@
+%SystemDrive%\bg\Bginfo.exe %SystemDrive%\bg\template.bgi /SILENT /TIMER:0 /NOLICPROMPT
